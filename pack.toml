@@ -1,12 +1,12 @@
 name = "Mechanical Mayhem 2"
 author = "Herr Katze"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0c115caefce6f423314099e1662e0c51b49421ea8145118db4f8ce6de019f539"
+hash = "d7a82c13d7c5088377c56e78a7f956d55a0850e8b40837fcf126a7e0db36dc7e"
 
 [versions]
 forge = "43.3.7"

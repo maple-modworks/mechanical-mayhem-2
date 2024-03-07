@@ -49,8 +49,18 @@ file = "config/gamestages/known_stages.json"
 hash = "cf6f1f1fe610ef3655273980fc2d693a671d122d3b739bf1e3641d16c28719d0"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "e400fdf1973bf6db16c58704683d2fb3b9bb8c842bec2b231b3ba6b457f55fef"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "1c7b78cb6902d1ce14fcb5cb49fdaff5c09d75d846fe77d2c7b63a12703ab9a1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "cdc65d49eb4a1ebdffdab6eefa5c3ed90b1e32016a45b894a5cc431c109b7e3b"
 metafile = true
 
 [[files]]
@@ -99,6 +109,11 @@ hash = "6b32bfc0813e786528b1f136d7b02a0a9eb622a3eb0e9f1683814e14db9aabb8"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "8dd2658f4f55f60b82295fa6b236a3a76c13f13e215663411dcff68fc96a7a7e"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
@@ -114,6 +129,16 @@ hash = "4a28ca53dcec18ae5e51075e4428ead39ecc7f3f94e31ba064f0ec8cb34b0cd8"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
+metafile = true
+
+[[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "ce088172552c9a67e0cf7970e64f51c106c471a79f9ad4d451dc3e19ff9f8cd5"
 metafile = true
@@ -121,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "c7d25531b2276ff8fd96b346d85cbe6d93b9c41618ff3a7b9992e579b30bfdc6"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
 metafile = true
 
 [[files]]
@@ -149,6 +179,16 @@ hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "b63f2403870b9915cd6f5d54d7a4e8fe80af83ce9f435ca470e85d6b4c684ba4"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "1998c39acc1fa8cbf589afdd5f1eddac0527d5b34c334d7e2433b476114dc2e8"
+metafile = true
+
+[[files]]
 file = "mods/create-planetary-tweaks.pw.toml"
 hash = "e39217aca24cbb509bf6b6d5c7dfd8c90ec69a20d946fbc3cdbce774d99ac81d"
 metafile = true
@@ -169,13 +209,13 @@ hash = "c0237aeac864e47c8e55d4dad9f37cd3c81e2314f2af279337c3cb562800a158"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "b2a8a34e87a5ffdbfcb35d1df344e630ac968aad359eced94aa58a184f2d3fa8"
+file = "mods/cultural-delights.pw.toml"
+hash = "00b2fabbd6e04cc30d094fa3664bcb91feb0b9def08d731aedd86ed8ee264960"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "00b2fabbd6e04cc30d094fa3664bcb91feb0b9def08d731aedd86ed8ee264960"
+file = "mods/curios.pw.toml"
+hash = "7d5435e8286c168e5fe6e46b9609e950b688216eb0b3c58b013b06d6a1116080"
 metafile = true
 
 [[files]]
@@ -284,6 +324,16 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "61b17065b73cdefcbdc21a3101b9bbff8896df219ae7ad12027c700728c6a2a9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "75f5e193bbe59997aadecb9f61ad1dad409acbcc1c60bdcdb2c5a6f32cacebda"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
 metafile = true
@@ -296,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
 metafile = true
 
 [[files]]
@@ -319,13 +364,18 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+file = "mods/kubejs-create.pw.toml"
+hash = "e684c8fa38f3b965abf0f8982b158e72689be99d1c87a5eb5994af3137727f08"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "9613a27a4579c56bee7019081a1b0c31f6803a22b498f12853a503b825f734c4"
+file = "mods/kubejs.pw.toml"
+hash = "cf4c8e9b5b75dee5f0c0f94521957c5acafba4b276d4150b1e7443db1862b1d9"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
@@ -419,6 +469,31 @@ hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "80d8a591da7d64bc0d3fb9ce3a959dac047db38e53a45a1e859f90a47029610e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "6ff5e5ee20c5b7c0a12b6ac913658265461453b4ad5b061881b145838e9dbed3"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "de594246e89c5043c26b3f6f89165d50ba4ea7b5cdca672d4ce6eb479f237721"
 metafile = true
@@ -426,6 +501,16 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f05809622dd6db22be39a9d137e7e5821cf8bfe5c0a7854078bfde63116df506"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "e8bd364a4619eb86cb800996003f679cec74575cdfa4aea74c769f53d090c8ec"
 metafile = true
 
 [[files]]
