@@ -244,6 +244,11 @@ hash = "9f435fdc8b862cd244a13275db06531b340a031533aad1c5619744cac1222dfa"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "50c86796e058a34594230a1718342cdd18dcf7b5508d10d8bb653091857fa4ec"
+metafile = true
+
+[[files]]
 file = "mods/endremastered.pw.toml"
 hash = "2a78b217e2d77077007723f87eef6ca2508bfa6ef32e421482a7fed30aee7580"
 metafile = true
