@@ -144,6 +144,11 @@ hash = "ce088172552c9a67e0cf7970e64f51c106c471a79f9ad4d451dc3e19ff9f8cd5"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "7c8049a155c3d81a32fcae4ffd085316a0839aa620e5ba5d390db4b32cf0254b"
+metafile = true
+
+[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "c7d25531b2276ff8fd96b346d85cbe6d93b9c41618ff3a7b9992e579b30bfdc6"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+metafile = true
+
+[[files]]
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "c73592061a91144fd4998d2d0c6645b542d5feb9eb5601841f8fb87ec9bf9e15"
 metafile = true
 
 [[files]]
