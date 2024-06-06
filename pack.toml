@@ -1,13 +1,13 @@
 name = "Mechanical Mayhem 2"
-author = "Herr Katze"
-version = "4c2ca58"
+author = "Maple Modworks"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03b7e5b09de07b5943d531465439ec48b492256e9fbb2aab0c4b9f4219679a7d"
+hash = "34ab9068f0417a6997fa0182ce936023d8190ff6ca447be0040a8769f2adc877"
 
 [versions]
-forge = "43.3.7"
+forge = "43.3.13"
 minecraft = "1.19.2"
