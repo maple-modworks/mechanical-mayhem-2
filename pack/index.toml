@@ -359,6 +359,11 @@ hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7e955e5b2db06a34be5829c9b5dc78dcbb40ae3be36d40fd212e9c0fd90afd8e"
 metafile = true
@@ -496,16 +501,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "80d8a591da7d64bc0d3fb9ce3a959dac047db38e53a45a1e859f90a47029610e"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "df381ef2e4e47544dfc5c9200c1029a0a341a9137182ab69dc5b3521cbe8db3e"
 metafile = true
 
 [[files]]
