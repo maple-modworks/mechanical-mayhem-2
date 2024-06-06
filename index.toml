@@ -147,11 +147,6 @@ hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "0ba092d0840cb11e606bcd20528601af94aa8d893c677cb935dc26a4fea4224b"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "01cfdc98d1402bec4c99c8b4a854876a23d197906c5f00989d3a3e13fdddd90e"
 metafile = true
@@ -254,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f70b64ae7ef75adbd0e21cb80b262a1f1f80431196ee6b4a98b36e8430f81500"
-metafile = true
-
-[[files]]
-file = "mods/endremastered.pw.toml"
-hash = "2a78b217e2d77077007723f87eef6ca2508bfa6ef32e421482a7fed30aee7580"
 metafile = true
 
 [[files]]
