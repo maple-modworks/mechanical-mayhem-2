@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".scripts/version.py"
-hash = "6fc72485e659f17530e9d26a89f44ab7da5aefdd6adf2a30b239dbba28d340c1"
-
-[[files]]
-file = "CNAME"
-hash = "9afd3b6e6e9bf2f62e92e81b3edb815de1d6ba128d09ec2d2524802be5f25886"
-
-[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
@@ -578,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "packwizignore"
-hash = "f2fd77a6370fcdd0d3d36d71b9cf8e1430220b5c1a511990820ae6b77d14061a"
+hash = "dbb588d36d232447aa4a897c120a0d53794a931500f4d811a215721b7b094cb7"
 
 [[files]]
 file = "scripts/stages.zs"
