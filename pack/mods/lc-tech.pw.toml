@@ -1,0 +1,13 @@
+name = "Lightman's Currency Tech"
+filename = "lctech-1.19.2-0.2.1.3b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/US8EsYXT/versions/XfM23OMn/lctech-1.19.2-0.2.1.3b.jar"
+hash-format = "sha1"
+hash = "d0637c71c32c4fa122fa6a146b597e8457078ad5"
+
+[update]
+[update.modrinth]
+mod-id = "US8EsYXT"
+version = "XfM23OMn"

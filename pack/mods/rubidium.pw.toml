@@ -1,17 +1,17 @@
 name = "Rubidium"
-filename = "rubidium-mc1.19.2-0.6.2c.jar"
+filename = "rubidium-mc1.20.1-0.7.1a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e67ef350e8247d83b33459dae8951f396ae341df"
+hash = "2a1eeb09e35e0c2aa98cdf1d7391caad9360c94c"
 mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4952685
+project-id = 574856
 
 [option]
 optional = true
 default = true
-
-[update]
-[update.curseforge]
-file-id = 4763255
-project-id = 574856
