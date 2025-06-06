@@ -1,0 +1,11 @@
+#!/bin/bash
+if [ -e .commit ]
+    then
+    rm .commit
+    python3 .scripts/version.py ./pack/pack.toml $(git rev-parse --short HEAD)
+    cd pack
+    packwiz refresh
+    git add ./pack.toml
+    git add ./index.toml
+    git commit -m "Auto: update version" --no-verify
+fi
