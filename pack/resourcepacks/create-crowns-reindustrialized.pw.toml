@@ -1,0 +1,13 @@
+name = "Create CROWNS: Reindustrialized (a.k.a. CROWNS x TFMG)"
+filename = "CROWNS Reindustrialized v1.0.1 - 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cfcb2231ab5b1e50d46c7a57405ac41a57fb5cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7137583
+project-id = 1370327

@@ -1,0 +1,13 @@
+name = "Create CROWNS: Retextured"
+filename = "CROWNS Retextured v1.1.1 - 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb9beef6387bf625c6cbfa22faff191e3ac37692"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7937615
+project-id = 1327231
