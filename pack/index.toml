@@ -46,6 +46,11 @@ hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
+file = "mods/chemica.pw.toml"
+hash = "709f9b9820c3442ea37fce069d8a8f6d89fa1c1775a3102ecd9a010bccc310c2"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-crowns.pw.toml"
-hash = "fe8a1bab9b519b487529f64139eb5b58fb15071713414160732b6aeed99af4bb"
+hash = "e04b9b993fa32feb8a8a99473fe0b8bf552a37c7e55ebbfc48a225f84f12957e"
 metafile = true
 
 [[files]]
@@ -131,8 +136,23 @@ hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
+file = "mods/formicapi.pw.toml"
+hash = "670bd68bf1acd53be0744ea72196adf873ac68fdd0d93de8ccecf53941f025fd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
@@ -167,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "aed0f4afde728964d32491c3fb8268b29b1a94b8e2b5f7eafbae6ad22c096010"
+hash = "312688b8bae6b3e31710700063f01777a6181f2f9b0a88263570373a34284770"
 metafile = true
 
 [[files]]
