@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/tags/tags.js"
+hash = "87a0c772046d9b3b81f3e084e6c3c79fdce8106dcaf6b6ccbb10fdc740f6c3e7"
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "281593eae2857d26522a0084f7441ce8367cea75b23832d4ddbd435fa2cb02f2"
 metafile = true
@@ -236,6 +240,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
@@ -273,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
@@ -359,3 +373,7 @@ metafile = true
 file = "resourcepacks/create-crowns-retextured.pw.toml"
 hash = "7820120fe5116df9f8e44a6f18b2ef97964e301807a2cd5766aaa944ab018add"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "9f4cf74d9dbec1089ff6c393ac33aa3c5cdbeaf14944314b2361e6c961d7511c"
