@@ -375,6 +375,11 @@ hash = "0beacfea53e3c4ceb9403be8ab7f993201263c2d9de6d4c340a48b930bc69d01"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-crowns-reindustrialized.pw.toml"
 hash = "905a75e39ef68153ac7fd84cc31177f4c7384fa721119759f9c749c97bbab4eb"
 metafile = true
