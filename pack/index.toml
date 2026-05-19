@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags/tags.js"
-hash = "87a0c772046d9b3b81f3e084e6c3c79fdce8106dcaf6b6ccbb10fdc740f6c3e7"
+hash = "10a764a0602769a5dd38ef4befbb5fe7097c8db19f0675d09d69155e8538b990"
 
 [[files]]
 file = "mods/advancedae.pw.toml"
