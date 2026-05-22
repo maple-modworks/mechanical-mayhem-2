@@ -255,11 +255,6 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "7b4ad0ae8d89e02de47814b95f02addc7beff3506c87bed4d4817c3d6941618d"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
