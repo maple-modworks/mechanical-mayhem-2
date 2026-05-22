@@ -160,6 +160,11 @@ hash = "bdd29c8a22832f076d1b055648b3ed0d3eaa9171eca2f8112a8020617f7b13f7"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "7b4ad0ae8d89e02de47814b95f02addc7beff3506c87bed4d4817c3d6941618d"
 metafile = true
 
 [[files]]
